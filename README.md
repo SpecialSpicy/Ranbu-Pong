@@ -1,7 +1,7 @@
                              
 ## Welcome to the Ranbu Pong
                             
-#### This is a Ping Pong Game with a Ball that get faster after every hit to challenge each Player.
+#### This is a Ping Pong Game with a Ball that gets faster after every hit to challenge each Player.
 
 #### The First Player (Left Side) uses ``W`` and ``S`` and The Second Player (Right Side) uses ``R`` and ``F`` to move Up and Down!
 ____________________________________________________________________________________________________________________________________________________________________
