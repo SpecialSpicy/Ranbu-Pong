@@ -8,6 +8,6 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/120993360/233761079-81e3996c-bc24-4c4e-b1a4-7a46c60e242a.png)
 ____________________________________________________________________________________________________________________________________________________________________
 
-
-### Expect plenty more in the future!
+#### To Run this Application, you need to run the RanbuGame.java File.
+##### Expect plenty more in the future!
 
