@@ -13,5 +13,5 @@ public class RanbuGame {
 		RanbuFrame frame = new RanbuFrame();
 	
 		
-	}
+	} 
 }
