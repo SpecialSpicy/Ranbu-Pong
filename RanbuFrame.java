@@ -11,7 +11,6 @@ public class RanbuFrame extends JFrame{
 			panel = new RanbuPanel();
 			
 			this.add(panel);
-			this.setIconImage(kagura1.getImage());
 			this.setTitle("Ranbu Pong");
 			this.setResizable(false);
 			this.setBackground(Color.black);
